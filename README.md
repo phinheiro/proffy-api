@@ -13,7 +13,7 @@ API desenvolvida em Node.js durante a trilha Omnistack da Next Level Week #2, ev
   - Matéria;
   - Horário;
   
-  ## Tecnologias utilizadas:
+ ## Tecnologias utilizadas:
   
 - [TypeScript](https://www.typescriptlang.org/)
 - [Node.js](https://nodejs.org/en/)
